@@ -3,9 +3,9 @@
 set -euo pipefail
 
 # Make sure these values are correct for your environment
-resourceGroup="dm-api-04"
-appName="dm-api-04"
-storageName="dmapi04"
+resourceGroup="PPMPortalApp"
+appName="PPMPortalAPINodeJS"
+storageName="ppmportalstorage"
 location="WestUS2" 
 
 # Change this if you are using your own github repository
